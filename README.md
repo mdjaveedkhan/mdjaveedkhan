@@ -1,4 +1,14 @@
-## Hi there 👋
+# MD Javeed Khan
+
+AI/ML Engineer | Developer of HeuriGuard  
+Hybrid Rule-Based + Machine Learning for Malicious Content Detection  
+
+## Skills
+- Python
+- Machine Learning
+- Deep Learning
+- Flask
+- Cybersecurity
 
 <!--
 **mdjaveedkhan/mdjaveedkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
