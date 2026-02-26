@@ -12,6 +12,12 @@ Hybrid Rule-Based + Machine Learning for Malicious Content Detection
 - Flask
 - Cybersecurity
 
+📌 Projects:
+- HeuriGuard — Malicious URL + Threat Detection  
+- Text-to-Image Gen (IGNITE Hack 3rd Place)  
+- YOLOv8 Research Publication
+
+🔗 Portfolio: https://mdjaveedkhan.github.io/Portfolio-HTML/
 <!--
 **mdjaveedkhan/mdjaveedkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
