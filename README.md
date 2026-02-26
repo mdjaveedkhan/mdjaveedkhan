@@ -1,4 +1,4 @@
-# MD Javeed Khan
+# Md Javeed Khan
 
 AI/ML Engineer | Developer of HeuriGuard  
 Hybrid Rule-Based + Machine Learning for Malicious Content Detection  
